@@ -1,0 +1,2 @@
+# ComputerGraphics
+Удаление вершит
